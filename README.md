@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  <p>
    <i class="fa:face_with_peeking_eye🫣 aria-hidden"true">
   </i>
-<p> This is my <em> first </em> independent coding project!🫣
+<p> I am an aspiring programmer.
 This looks very plain at the moment, but I am excited to learn more.
 </p>
 
