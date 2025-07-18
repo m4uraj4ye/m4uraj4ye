@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-<header> HELLO </header>
+<header> Hi </header>
 
 <link href="https://www.webfx.com/tools/emoji-cheat-sheet/">
 <body>                       
