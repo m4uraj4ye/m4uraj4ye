@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
-<header> Hi </header>
+<header> Hi there </header>
 
 <link href="https://www.webfx.com/tools/emoji-cheat-sheet/">
 <body>                       
  <p>
    <i class="fa:face_with_peeking_eye🫣 aria-hidden"true">
   </i>
-<p> I am an aspiring programmer.
+<p> 
 This looks very plain at the moment, but I am excited to learn more.
 </p>
 
